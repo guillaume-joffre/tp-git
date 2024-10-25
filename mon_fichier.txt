@@ -1,3 +1,4 @@
 un commit qui sera conflictuel
 oui
 
+encore une ligne
