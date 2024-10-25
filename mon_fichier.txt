@@ -1,3 +1,5 @@
 un commit qui sera conflictuel
 oui
 encore une ligne qui sera conflictuelle avec le merge de la branche new_feature-branch
+
+encore une ligne
